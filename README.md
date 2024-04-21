@@ -1,3 +1,5 @@
+Update: the fix is to use --pool=forks
+
 # vitest-uws
 Reproduction of Vitest not working with uwebsockets
 
